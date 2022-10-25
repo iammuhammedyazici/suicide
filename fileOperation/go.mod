@@ -1,4 +1,4 @@
-module fileOperation
+module github.com/iammuhammedyazici/suicide/fileOperation
 
 go 1.19
 
